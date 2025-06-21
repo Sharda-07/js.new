@@ -47,7 +47,7 @@ console.log(instructor);
 
 //JSON 
 {
-    "name":"sharda",
+    "name": "sharda",
     "coursename": "json",
     "price":"free"
 }
